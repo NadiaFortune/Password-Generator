@@ -32,7 +32,7 @@ N/A
 
 ## **Credits**
 
-The following resources were used to research the coding funcionality for the successful deployment in the console: YouTube, w3schools, and MDN.
+The following resources were used to research the coding funcionality for the successful deployment of the application: YouTube, w3schools, and MDN.
 
 I did not use a tutor guidance session for this challenge.
 
