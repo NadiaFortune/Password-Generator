@@ -2,22 +2,23 @@
 
 ## **Description**
 
-I created a simple random password generator that would provide a randomly-generated password of between 8 and 128 characters.
+I created a simple password generator that would provide a randomly-generated password of between 8 and 128 characters.
 
 The desired outcome was to allow for the following to take place:
 
--The user could choose the length of the password
--The user could choose to include lower case letters
--The user could choose to include upper case letters
--The user could choose to include special characters
--The user could choose to include numbers
+-The user could choose the length of the password;  
+-The user could choose to include lower case letters;  
+-The user could choose to include upper case letters;  
+-The user could choose to include special characters;  
+-The user could choose to include numbers  
 
-Javascript functions were applied to produce the random password of the length chosen.
+Javascript functions were applied to produce the random password of the chosen length.
 
-The deployed page can be found here: https://nadiafortune.github.io/Console-Finances/
+The deployed page can be found here: https://nadiafortune.github.io/Password-Generator/
 
-A screenshot of the deployed page is below:
-![](images/Screenshot_2023-12-28_195959.png)
+A screenshot of the deployed page is below:  
+
+![](assets/Screenshot%202024-01-07%20153814.png)
 
 
 ## **Installation**
